@@ -3,6 +3,7 @@
 # Date:    11/21/2014
 # E-mail:  g@georgelee.co
 # Web: georgelee.co
+# © Copyright 2014 George Lee / georgelee.co. All Rights Reserved
 # Description:
 # This app solves mazes based on a command line input and uses
 # recursion among other python techniques to do so.
