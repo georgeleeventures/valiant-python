@@ -3,6 +3,7 @@
 # Date:    11/14/2014
 # E-mail:  g@georgelee.co
 # Web: georgelee.co
+# © Copyright 2014 George Lee / georgelee.co. All Rights Reserved
 # Description:
 # This is the game called connect four. The program will prompt
 # the user to enter a column choice to put his/her piece in place.
