@@ -3,6 +3,7 @@
 # Date:    11/8/2014
 # E-mail:  g@georgelee.co
 # Web: georgelee.co
+# © Copyright 2014 George Lee / georgelee.co. All Rights Reserved
 # Description:
 # This program is a game.
 # You will need to guess the contents of a word
