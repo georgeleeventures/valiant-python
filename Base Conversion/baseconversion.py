@@ -3,6 +3,7 @@
 # Date:    11/2/2014
 # E-mail:  g@georgelee.co
 # Web: georgelee.co
+# © Copyright 2014 George Lee / georgelee.co. All Rights Reserved
 # Description:
 # This program will read the contents of a text file and 
 # will write out the ASCII values of each alphaNumeric 
